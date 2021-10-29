@@ -5,8 +5,8 @@ This file collects more data from
 https://www.ssa.gov/oact/babynames/decades/names2010s.html
 https://www.ssa.gov/oact/babynames/decades/names2000s.html
 https://www.ssa.gov/oact/babynames/decades/names1990s.html
-Please print the number of top200 male and female on Console
-You should see:
+
+Print the number of top200 male and female on Console
 ---------------------------
 2010s
 Male Number: 10890537
