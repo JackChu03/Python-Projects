@@ -49,7 +49,6 @@ def add_2_numbers(l1: ListNode, l2: ListNode) -> ListNode:
     cur.next = None
     return ans_head
     #######################
-####### DO NOT EDIT CODE BELOW THIS LINE ########
 
 
 def traversal(head):
