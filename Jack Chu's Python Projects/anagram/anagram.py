@@ -5,8 +5,7 @@ This program recursively finds all the anagram(s)
 for the word input by user and terminates when the
 input string matches the EXIT constant
 
-If you correctly implement this program, you should see the
-number of anagrams for each word listed below:
+E.g
     * arm -> 3 anagrams
     * contains -> 5 anagrams
     * stop -> 6 anagrams
@@ -14,7 +13,7 @@ number of anagrams for each word listed below:
     * spear -> 12 anagrams
 """
 
-import time                   # This file allows you to calculate the speed of your algorithm
+import time                   # Calculate the speed of the algorithm
 
 # Constants
 FILE = 'dictionary.txt'       # This is the filename of an English dictionary
@@ -55,7 +54,7 @@ def read_dictionary():
 
 def find_anagrams(s):
     """
-    to find all anagrams of the input word, but need a helper function to do so
+    To find all anagrams of the input word, but need a helper function to do so
     """
     n, anagrams_list = helper_find_anagrams(s, 0, [])
     return n, anagrams_list
