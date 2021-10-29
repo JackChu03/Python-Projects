@@ -1,14 +1,13 @@
 """
-File: stanCodoshop.py
-----------------------------------------------
-SC101_Assignment3
+stanCodoshop Project
 Adapted from Nick Parlante's
 Ghost assignment by Jerry Liao.
 
------------------------------------------------
+Name: Jack Chu
 
-TODO: To Remove the seemly human figure on the pictures we sent in, make these codes to learn
-     from the pictures and return a picture that is without a human figure~
+Description: To Remove the seemly human figure on the pictures we sent in, make these codes to learn
+             from the pictures and return a picture that is without a human figure~
+-----------------------------------------------
 """
 
 import math
