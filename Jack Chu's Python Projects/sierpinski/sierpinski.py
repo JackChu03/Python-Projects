@@ -1,6 +1,5 @@
 """
-File: sierpinski.py
-Name: Jack
+Name: Jack Chu
 ---------------------------
 This file recursively prints the Sierpinski triangle on GWindow.
 The Sierpinski triangle is a fractal described in 1915 by Waclaw Sierpinski.
