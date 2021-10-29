@@ -1,5 +1,5 @@
 """
-File: shrink.py
+Name: Jack Chu
 -------------------------------
 Create a new "out" image half the width and height of the original.
 Set pixels at x=0 1 2 3 in out , from x=0 2 4 6 in original,
