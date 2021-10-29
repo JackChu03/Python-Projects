@@ -1,5 +1,4 @@
 """
-File: anagram.py
 Name: Jack
 ----------------------------------
 This program recursively finds all the anagram(s)
