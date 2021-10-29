@@ -1,5 +1,4 @@
 """
-File: coin_flip_runs.py
 Name: Jack Chu
 -----------------------
 This program should simulate coin flip(s)
