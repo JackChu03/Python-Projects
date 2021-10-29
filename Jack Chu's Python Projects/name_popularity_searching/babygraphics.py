@@ -64,8 +64,6 @@ def draw_fixed_lines(canvas):
     """
     canvas.delete('all')            # delete all existing lines from the canvas
 
-    # Write your code below this line
-    #################################
     canvas.create_line(GRAPH_MARGIN_SIZE, GRAPH_MARGIN_SIZE, CANVAS_WIDTH-GRAPH_MARGIN_SIZE, GRAPH_MARGIN_SIZE,
                        width=LINE_WIDTH)
     canvas.create_line(GRAPH_MARGIN_SIZE, CANVAS_HEIGHT-GRAPH_MARGIN_SIZE, CANVAS_WIDTH-GRAPH_MARGIN_SIZE,
@@ -91,9 +89,7 @@ def draw_names(canvas, name_data, lookup_names):
         This function does not return any value.
     """
     draw_fixed_lines(canvas)        # draw the fixed background grid
-
-    # Write your code below this line
-    #################################
+    
     # to get the space unit we want
     space = (CANVAS_HEIGHT - GRAPH_MARGIN_SIZE*2) / 1000
     # to get each name which be input
@@ -125,8 +121,6 @@ def draw_names(canvas, name_data, lookup_names):
             canvas.create_text(x+TEXT_DX, GRAPH_MARGIN_SIZE+rank*space, text=text1, anchor=tkinter.SW)
             canvas.create_text(x2 + TEXT_DX, GRAPH_MARGIN_SIZE + rank2 * space, text=text2, anchor=tkinter.SW)
 
-
-# main() code is provided, feel free to read through it but DO NOT MODIFY
 def main():
     # Load data
     name_data = babynames.read_files(FILENAMES)
