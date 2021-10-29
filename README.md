@@ -13,7 +13,7 @@ The below are some of my highlighted Python projects done during my time learnin
   * Python Symantics & Syntax
 * [Hangman_Game](https://github.com/JackChu03/Python-Projects/blob/main/Jack%20Chu's%20Python%20Projects/hangman_game/hangman.py)
   * Python Symantics & Syntax
-* [Draw_Courage_The_Cowardly_Dog](https://github.com/JackChu03/PythonProjects/blob/main/Jack%20Chu's%20Python%20Projects/Draw_Courage_The_Cowardly_Dog/my_drawing.py)
+* [Draw_Courage_The_Cowardly_Dog(https://github.com/JackChu03/PythonProjects/blob/main/Jack%20Chu's%20Python%20Projects/Draw_Courage_The_Cowardly_Dog/my_drawing.py)
   * Object Oriented Programming
 * [Hit_Bricks_Game](https://github.com/JackChu03/Python-Projects/blob/main/Jack%20Chu's%20Python%20Projects/hit_bricks_game/breakoutgraphics.py)
   * Object Oriented Programming & Game Design & Animation
