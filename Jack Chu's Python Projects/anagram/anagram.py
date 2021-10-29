@@ -3,8 +3,7 @@ Name: Jack Chu
 ----------------------------------
 This program recursively finds all the anagram(s)
 for the word input by user and terminates when the
-input string matches the EXIT constant defined
-at line 19
+input string matches the EXIT constant
 
 If you correctly implement this program, you should see the
 number of anagrams for each word listed below:
