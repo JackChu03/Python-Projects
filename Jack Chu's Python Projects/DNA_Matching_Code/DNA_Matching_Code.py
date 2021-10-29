@@ -1,6 +1,6 @@
 """
 File: similarity.py
-Name: Jack
+Name: Jack Chu
 ----------------------------
 This program compares short dna sequence, s2,
 with sub sequences of a long dna sequence, s1
