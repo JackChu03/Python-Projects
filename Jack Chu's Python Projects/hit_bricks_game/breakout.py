@@ -4,7 +4,9 @@ Adapted from Eric Roberts's Breakout by
 Sonja Johnson-Yu, Kylie Jue, Nick Bowman,
 and Jerry Liao.
 
-YOUR DESCRIPTION HERE:
+Name: Jack Chu
+
+DESCRIPTION:
 To create a game that the ball will hit the bricks, when bricks are all disappear, and the game
 will be over! Use the paddle to control the ball to hit the bricks.
 """
