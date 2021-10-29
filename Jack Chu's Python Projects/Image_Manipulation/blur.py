@@ -1,5 +1,5 @@
 """
-File: blur.py
+Name: Jack Chu
 -------------------------------
 This file shows the original image(smiley-face.png)
 first, and then its blurred image. The blur algorithm
