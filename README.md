@@ -27,6 +27,8 @@ The below are some of my highlighted Python projects done during my time learnin
   * Recursive Graphics
 * [My_Web_Crawler](https://github.com/JackChu03/Python-Projects/blob/main/Jack%20Chu's%20Python%20Projects/name_popularity_searching/extension.py)
   * Python Web Crawler
+* [Combine_2_Numbers_with_ListNode](https://github.com/JackChu03/Python-Projects/blob/main/Jack%20Chu's%20Python%20Projects/Combine_2_numbers_with_ListNode/add2.py)
+  * Linked List & Priority Queue
 * [Mirror_Lake](https://github.com/JackChu03/Python-Projects/blob/main/Jack%20Chu's%20Python%20Projects/Image_Manipulation/mirror_lake.py)
   * Image Processing
 * [Shrink](https://github.com/JackChu03/Python-Projects/blob/main/Jack%20Chu's%20Python%20Projects/Image_Manipulation/shrink.py)
