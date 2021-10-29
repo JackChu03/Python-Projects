@@ -1,12 +1,12 @@
 """
 Name: Jack Chu
 -----------------------
-This program should simulate coin flip(s)
+This program simulate coin flip(s)
 with the number of runs input by users.
 A 'run' is defined as consecutive results
 on either 'H' or 'T'. For example, 'HHHHHTHTT'
 is regarded as a 2-run result.
-Your program should stop immediately after your
+The program will stop immediately after the
 coin flip results reach the runs!
 """
 
@@ -60,9 +60,6 @@ def main():
 	print(ans)
 
 
-
-
-###### DO NOT EDIT CODE BELOW THIS LINE ######
 
 if __name__ == "__main__":
 	main()
