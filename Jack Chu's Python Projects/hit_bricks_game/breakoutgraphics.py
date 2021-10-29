@@ -4,7 +4,9 @@ Adapted from Eric Roberts's Breakout by
 Sonja Johnson-Yu, Kylie Jue, Nick Bowman, 
 and Jerry Liao
 
-YOUR DESCRIPTION HERE:
+Name: Jack Chu
+
+DESCRIPTION:
 To set up the environment of the break out game
 """
 from campy.graphics.gwindow import GWindow
