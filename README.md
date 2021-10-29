@@ -1,4 +1,4 @@
-# Python-Projects
+# Jack Chu's Python Projects~
 Welcome!!\
 The below are some of my highlighted Python projects done during my time learning at stanCode!! : ) ) )
 
