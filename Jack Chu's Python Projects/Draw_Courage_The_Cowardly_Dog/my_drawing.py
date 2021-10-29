@@ -1,5 +1,4 @@
 """
-File: SC101_A1
 Name: Jack Chu
 ----------------------
 TODO: Draw Courage the Cowardly Dog!
