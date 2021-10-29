@@ -1,5 +1,4 @@
 """
-File: add2.py
 Name: Jack Chu
 ------------------------
 TODO: To add up the numbers found in two ListNodes and create a new ListNode with the answer
