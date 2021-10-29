@@ -1,5 +1,4 @@
 """
-File: similarity.py
 Name: Jack Chu
 ----------------------------
 This program compares short dna sequence, s2,
