@@ -1,5 +1,4 @@
 """
-File: boggle.py
 Name: Jack
 ----------------------------------------
 We want to create a boggle game, so that if we input a 4*4 board, we can get every word in that board
