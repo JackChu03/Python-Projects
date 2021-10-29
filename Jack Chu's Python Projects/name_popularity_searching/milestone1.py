@@ -1,5 +1,4 @@
 """
-File: Milestone1.py
 Name: Jack Chu
 -----------------------
 This file tests the milestone 1 for
