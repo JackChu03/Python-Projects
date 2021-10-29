@@ -6,7 +6,7 @@ The below are some of my highlighted Python projects done during my time learnin
 ### Here are the *[Videos Of My Python Projects](https://drive.google.com/drive/folders/1wqKC2SHTfffBw02KCQ0utuhAr0Bh_iW4?usp=sharing)*.
 
 
-## My Projects Source Code:
+## Projects Source Code:
 * [DNA_Matching_Code](https://github.com/JackChu03/Python-Projects/blob/main/Jack%20Chu's%20Python%20Projects/DNA_Matching_Code/DNA_Matching_Code.py)
   * Python Symantics & Syntax
 * [Coin_Flip_Runs](https://github.com/JackChu03/Python-Projects/blob/main/Jack%20Chu's%20Python%20Projects/coin_flip_runs/coin_flip_runs.py)
