@@ -1,5 +1,5 @@
 """
-File: fire.py
+Name: Jack Chu
 ---------------------------------
 This file contains a method called
 highlight_fires which detects the
