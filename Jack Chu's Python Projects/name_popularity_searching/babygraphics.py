@@ -1,9 +1,11 @@
 """
-SC101 Baby Names Project
+Baby Names Project
 Adapted from Nick Parlante's Baby Names assignment by
 Jerry Liao.
 
-YOUR DESCRIPTION HERE:
+Name: Jack Chu
+
+DESCRIPTION:
 To draw the baby name template, if we key in the name, the template will show the curve of the changing
 trend of the name in each decade since 1900 to 2010
 """
