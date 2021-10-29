@@ -1,5 +1,4 @@
 """
-File: hangman.py
 Name: Jack
 -----------------------------
 This program plays hangman game.
