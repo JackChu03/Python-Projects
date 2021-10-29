@@ -1,5 +1,5 @@
 """
-Name: Jack
+Name: Jack Chu
 ----------------------------------------
 We want to create a boggle game, so that if we input a 4*4 board, we can get every word in that board
 (every neighbor of a word could work to form a word, the word could be found in a dictionary)
