@@ -1,5 +1,5 @@
 """
-File: extension.py
+Name: Jack Chu
 --------------------------
 This file collects more data from
 https://www.ssa.gov/oact/babynames/decades/names2010s.html
