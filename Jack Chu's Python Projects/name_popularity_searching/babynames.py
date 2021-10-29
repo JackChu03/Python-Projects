@@ -1,9 +1,11 @@
 """
-SC101 Baby Names Project
+Baby Names Project
 Adapted from Nick Parlante's Baby Names assignment by
 Jerry Liao.
 
-YOUR DESCRIPTION HERE:
+Name: Jack Chu
+
+DESCRIPTION:
 To create a dict called name_data with Files' name text info input into that dict
 """
 
