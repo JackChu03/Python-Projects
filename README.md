@@ -1,9 +1,9 @@
 # Python-Projects
 Welcome!!\
-The below are some of my highlighted Python projects done during my time learning at stanCode!!
+The below are some of my highlighted Python projects done during my time learning at stanCode!! : ) ) )
 
 
-Here are the *[Videos Of My Python Projects](https://drive.google.com/drive/folders/1wqKC2SHTfffBw02KCQ0utuhAr0Bh_iW4?usp=sharing)*.
+### Here are the *[Videos Of My Python Projects](https://drive.google.com/drive/folders/1wqKC2SHTfffBw02KCQ0utuhAr0Bh_iW4?usp=sharing)*.
 
 
 ## My Projects Source Code:
