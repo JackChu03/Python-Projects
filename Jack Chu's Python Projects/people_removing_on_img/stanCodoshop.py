@@ -43,9 +43,6 @@ def get_average(pixels):
         pixels (List[Pixel]): list of pixels to be averaged
     Returns:
         rgb (List[int]): list of average red, green, blue values across pixels respectively
-
-    Assumes you are returning in the order: [red, green, blue]
-
     """
     t_red = 0
     t_blue = 0
@@ -95,7 +92,6 @@ def solve(images):
     width = images[0].width
     height = images[0].height
     result = SimpleImage.blank(width, height)
-    ######## YOUR CODE STARTS HERE #########
     pixels = []
     for x in range(width):
         for y in range(height):
@@ -110,14 +106,12 @@ def solve(images):
             r_pixel.red = best_pixel.red
             r_pixel.green = best_pixel.green
             r_pixel.blue = best_pixel.blue
-    ######## YOUR CODE ENDS HERE ###########
     print("Displaying image!")
     result.show()
 
 
 def jpgs_in_dir(dir):
     """
-    (provided, DO NOT MODIFY)
     Given the name of a directory, returns a list of the .jpg filenames
     within it.
 
@@ -135,7 +129,6 @@ def jpgs_in_dir(dir):
 
 def load_images(dir):
     """
-    (provided, DO NOT MODIFY)
     Given a directory name, reads all the .jpg files within it into memory and
     returns them in a list. Prints the filenames out as it goes.
 
@@ -154,7 +147,6 @@ def load_images(dir):
 
 
 def main():
-    # (provided, DO NOT MODIFY)
     args = sys.argv[1:]
     # We just take 1 argument, the folder containing all the images.
     # The load_images() capability is provided above.
