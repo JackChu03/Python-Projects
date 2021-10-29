@@ -1,11 +1,8 @@
 """
-File: best_photoshop_award.py
+Name: Jack Chu
 ----------------------------------
 This file creates a photoshopped image
-that is going to compete for the Best
-Photoshop Award for SC001.
-Please put all the images you will use in the image_contest folder
-and make sure to choose the right folder when loading your images.
+that Jack Chu is in Prison!!
 """
 from simpleimage import SimpleImage
 
