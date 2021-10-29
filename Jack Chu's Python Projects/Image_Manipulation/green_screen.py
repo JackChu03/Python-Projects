@@ -1,5 +1,5 @@
 """
-File: green_screen.py
+Name: Jack Chu
 -------------------------------
 This file creates a new image that uses
 MillenniumFalcon.png as background and
