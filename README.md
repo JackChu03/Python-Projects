@@ -13,7 +13,7 @@ The below are some of my highlighted Python projects done during my time learnin
   * Python Symantics & Syntax
 * [Hangman_Game](https://github.com/JackChu03/Python-Projects/blob/main/Jack%20Chu's%20Python%20Projects/hangman_game/hangman.py)
   * Python Symantics & Syntax
-* [Titanic Basic Data Analysis](https://github.com/JackChu03/Python-Projects/blob/main/Jack%20Chu's%20Python%20Projects/Titanic%20Basic%20Data%20Analysis/titanic.py)
+* [Titanic_Basic_Data_Analysis](https://github.com/JackChu03/Python-Projects/blob/main/Jack%20Chu's%20Python%20Projects/Titanic%20Basic%20Data%20Analysis/titanic.py)
   * Python Data Analysis
 * [Draw_Courage_The_Cowardly_Dog](https://github.com/JackChu03/Python-Projects/blob/main/Jack%20Chu's%20Python%20Projects/Draw_Courage_The_Cowardly_Dog/my_drawing.py)
   * Python Drawing
