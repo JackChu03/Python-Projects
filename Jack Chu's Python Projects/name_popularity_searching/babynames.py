@@ -115,7 +115,6 @@ def search_names(name_data, target):
 
 def print_names(name_data):
     """
-    (provided, DO NOT MODIFY)
     Given a name_data dict, print out all its data, one name per line.
     The names are printed in alphabetical order,
     with the corresponding years data displayed in increasing order.
@@ -130,7 +129,6 @@ def print_names(name_data):
 
 
 def main():
-    # (provided, DO NOT MODIFY)
     args = sys.argv[1:]
     # Two command line forms
     # 1. file1 file2 file3 ..
